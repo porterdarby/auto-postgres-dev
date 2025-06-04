@@ -1,4 +1,4 @@
-# auto-postgres-dev
+# postgres-docker-watch
 
 This repository is a sample repository for me to document the how (and the why) of running a Postgres database in a container, and having that container auto-update when a change occurs.
 
